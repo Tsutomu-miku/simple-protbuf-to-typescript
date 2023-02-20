@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+
+body {
+  background-color: #333333;
+}
+
+.editor {
+  width: 50%;
+}
